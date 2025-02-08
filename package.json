@@ -2,14 +2,14 @@
   "name": "plastic-products-ecommerce",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://zcyzcy98.github.io/hosted",
+  "homepage": "./",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@headlessui/react": "^1.7.17",
