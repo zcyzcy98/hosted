@@ -5,4 +5,8 @@ project.config.json
 project.private.config.json
 
 node_modules
+minitest
+
+dist/
 dist
+node_modules
